@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MasterTK575, or just Tim.
+- 👋 Hi, I’m Tim.
 - 👀 I'm studying business informatics. Additionally, I'm learning to code on the side using free online resources.
 - 📫 How to reach me: krambeck.t@gmail.com
 
